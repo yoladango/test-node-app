@@ -19,8 +19,10 @@ fs.readFile('input.txt', function(err, data) {
 
 console.log('Program ended');*/
 
-var events = require("events");
+var events = require('events');
 
-var eventEmitter = new events.EventEmitter
+var eventEmitter = new events.EventEmitter();
+
+eventEmitter.on
 
 
